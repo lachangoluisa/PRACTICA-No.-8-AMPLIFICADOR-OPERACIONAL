@@ -45,11 +45,13 @@ LISTA DE COMPONENTES
 
 
 EXPLICACIÓN
-1.- Construya en el protoboard cada uno de los circuitos de la figura 1. Muestre
-simultáneamente las señales de entrada y salida en un osciloscopio. Capture las formas de onda.
-2.- Determine y analice la relación entre las señales de entrada y salida en cada uno de los
-circuitos indicados en la figura 1.
+1.- Construya en el protoboard cada uno de los circuitos de la figura 1. Muestre simultáneamente las señales de entrada y salida en un osciloscopio. Capture las formas de onda.
+
+2.- Determine y analice la relación entre las señales de entrada y salida en cada uno de lOS circuitos indicados en la figura 1.
+
+
 3.- En todos los casos emplee un amplificados LM741.
+
 
 
 7.- DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
