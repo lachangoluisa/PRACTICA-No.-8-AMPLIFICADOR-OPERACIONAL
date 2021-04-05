@@ -13,6 +13,7 @@ Los amplificadores operacionales son, dispositivos compactos activos y lineales 
 
 Estos dispositivos se caracterizan por ser construidos en sus componentes más genéricos, dispuestos de modo que en cada momento se puede acceder a los puntos digamos «vitales» en donde se conectan los componentes externos cuya función es la de permitir al usuario modificar la respuesta y transferencia del dispositivo.
 
+![amplificador operacional ideal](https://user-images.githubusercontent.com/76057459/113602697-88906000-9608-11eb-8846-88fa0a06337b.png)
 
 
 DIAGRAMAS
@@ -31,25 +32,45 @@ Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicaci�
 
 
 LISTA DE COMPONENTES
-En este punto se indicará en una tabla todos los recursos que se han empleado para su desarrollo.
+
+* Generador de señales
+* Fuente DC
+* Osciloscopio.
+* Protoboard
+* Multimetro
+* Cables conductores
+* Resistencias , capacitores
+* Amplificadores Operacionales
+
+
 
 EXPLICACIÓN
-En este punto se debe explicar cómo funcionan la implementación del circuito o programa.
+1.- Construya en el protoboard cada uno de los circuitos de la figura 1. Muestre
+simultáneamente las señales de entrada y salida en un osciloscopio. Capture las formas de onda.
+2.- Determine y analice la relación entre las señales de entrada y salida en cada uno de los
+circuitos indicados en la figura 1.
+3.- En todos los casos emplee un amplificados LM741.
 
-MANUAL DE USUARIO
-Constituye un documento en el cual se ilustra con imágenes y un lenguaje claro cómo utilizar la aplicación, evitando mencionar código. Además debe presentar como armar, instalar o conectar la aplicación, evitando los esquemas circuitales.
 
 7.- DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
-En este punto se debe especificar las aplicaciones secundarias necesarias, la configuración del terminal, así como cualquier otra información necesaria para que pueda funcionar el proyecto, tanto en hardware como en software.
 
-APORTACIONES
-En este punto se indicará todo lo adicional fruto de lo investigado que se haya agregado al trabajo.
+8.- ANALISIS DE RESULTADOS 
 
-CONCLUSIONES
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
 
-BIBLIOGRAFÍA
-Emplear normas APA para el informe e IEEE para el artículo
 
-ANEXOS
+9.- PREGUNTAS
+
+
+10.-CONCLLUSIONES
+
+
+
+
+11.- BIBLIOGRAFIAS
+
+
+https://www.diarioelectronicohoy.com/blog/el-amplificador-operacional
+
+
+12.- ANEXOS
