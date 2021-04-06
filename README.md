@@ -176,6 +176,8 @@ Ejemplo de amplificador operacional
 
 10.-CONCLUSIONES
 
+La ganancia del amplificador debe eser menor a la fuente de alimentación del amplificador para evitar que la señal de salida se recorte
+
 Un amplificador se le da la configuracion de inversor cuando  la señal de  salida es negativa y de entrada es positiva
 
 Cuando se implementa un amplificador operacional actua de acuerdo a los elementos conectados al circuito o de la onda de entrada
