@@ -176,6 +176,8 @@ Ejemplo de amplificador operacional
 
 10.-CONCLUSIONES
 
+Un amplificador se le da la configuracion de inversor cuando  la señal de  salida es negativa y de entrada es positiva
+
 Cuando se implementa un amplificador operacional actua de acuerdo a los elementos conectados al circuito o de la onda de entrada
 
 en el circuito 1 y 2 se observa ondas senoidales en las que se uso un aplificador operacional que aumento la señal de entrada
